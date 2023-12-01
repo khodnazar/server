@@ -1,0 +1,19 @@
+{
+  "name": "i18n",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@codeyard/moleculer-i18n": "^0.0.8",
+    "node-polyglot": "^2.5.0"
+  },
+  "devDependencies": {
+    "@types/node-polyglot": "^2.4.3"
+  }
+}
